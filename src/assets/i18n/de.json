@@ -1,0 +1,33 @@
+{
+  "paginator": {
+    "items-per-page": "Einträge pro Seite",
+    "next-page": "Nächste Seite",
+    "previous-page": "Vorherige Seite",
+    "range-of": "von",
+    "first-page": "Erste Seite",
+    "last-page": "Letzte Seite"
+  },
+  "notification":  {
+    "title": {
+      "loading": {
+        "success": "Laden erfolgreich.",
+        "error": "Laden fehlgeschlagen."
+      },
+      "creation": {
+        "success": "Erstellung erfolgreich.",
+        "error": "Erstellung fehlgeschlagen."
+      },
+      "modification": {
+        "success": "Bearbeitung erfolgreich.",
+        "error": "Bearbeitung fehlgeschlagen."
+      },
+      "deletion": {
+        "success": "Löschen erfolgreich.",
+        "error": "Löschen fehlgeschlagen."
+      },
+      "operation": {
+        "not-possible-error": "Aktion nicht möglich."
+      }
+    }
+  }
+}

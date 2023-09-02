@@ -1,0 +1,33 @@
+{
+  "paginator": {
+    "items-per-page": "Items Per Page",
+    "next-page": "Next Page",
+    "previous-page": "Previous Page",
+    "range-of": "of",
+    "first-page": "First Page",
+    "last-page": "Last Page"
+  },
+  "notification":  {
+    "title": {
+      "loading": {
+        "success": "Loading successful.",
+        "error": "Loading failed."
+      },
+      "creation": {
+        "success": "Creation successful.",
+        "error": "Creation failed."
+      },
+      "modification": {
+        "success": "Modification successful.",
+        "error": "Modification failed."
+      },
+      "deletion": {
+        "success": "Deletion successful.",
+        "error": "Deletion failed."
+      },
+      "operation": {
+        "not-possible-error": "Action not possible."
+      }
+    }
+  }
+}
