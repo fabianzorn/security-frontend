@@ -5,7 +5,10 @@ import {HeaderComponent} from "./common/header/header.component";
 @Component({
   selector: 'sf-root',
   standalone: true,
-  imports: [RouterOutlet, HeaderComponent],
+  imports: [
+    RouterOutlet,
+    HeaderComponent
+  ],
   templateUrl: './app.component.html',
   styleUrl: './app.component.css'
 })
